@@ -21,10 +21,11 @@ body {
   height: 1.5em;
 }
 
-/*.cursive-font {
+.cursive-font {
   font-family: 'Over the Rainbow', cursive;
 }
-.sans-serif-font {
+
+/*.sans-serif-font {
   font-family: 'Pathway Gothic One', sans-serif;
 }
 #top {
