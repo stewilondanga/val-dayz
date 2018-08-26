@@ -29,13 +29,14 @@ body {
   font-family: 'Pathway Gothic One', sans-serif;
 }
 
-/*#top {
+#top {
   font-family: 'Over the Rainbow', cursive;
   color: #EF4F50;
   text-align: center;
   font-size: 3em;
 }
-p {
+
+/*p {
   line-height: 1em;
 }
 button {
