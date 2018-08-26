@@ -99,11 +99,12 @@ button:hover {
   text-shadow: 5px 0 0 #000;
 }
 
-/*.sign-off {
+.sign-off {
   margin-top: 3em;
   font-size: 1.3em;
 }
-.name {
+
+/*.name {
   margin-left: 50px;
 }
 
