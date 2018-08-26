@@ -104,11 +104,11 @@ button:hover {
   font-size: 1.3em;
 }
 
-/*.name {
+.name {
   margin-left: 50px;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
