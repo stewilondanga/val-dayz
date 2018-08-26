@@ -81,7 +81,7 @@ button:hover {
   font-size: 2.5em;
 }
 
-/*.close {
+.close {
   float: right;
   padding: .25em;
   background: #fff;
@@ -91,7 +91,8 @@ button:hover {
   font-size: .5em;
   margin-top: -4em;
 }
-.netflix {
+
+/*.netflix {
   font-family: 'Pathway Gothic One', sans-serif;
   font-size: 2em;
   letter-spacing: 5px;
