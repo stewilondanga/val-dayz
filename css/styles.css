@@ -61,11 +61,12 @@ button:hover {
   top: 2px;
 }
 
-/*.button:active {
+.button:active {
   box-shadow: 0 0 #ab3c3c;
   top: 6px;
 }
-#bottom {
+
+/*#bottom {
   margin-top: 1em;
   background-color: #EF4F50;
   position: relative;
