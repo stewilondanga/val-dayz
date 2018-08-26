@@ -54,13 +54,14 @@ button {
   font-size: .4em;
 }
 
-/*button:hover {
+button:hover {
   background-color: #EF4F50;
   cursor: pointer;
   box-shadow: 0 6px #ab3c3c;
   top: 2px;
 }
-.button:active {
+
+/*.button:active {
   box-shadow: 0 0 #ab3c3c;
   top: 6px;
 }
