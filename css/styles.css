@@ -92,13 +92,14 @@ button:hover {
   margin-top: -4em;
 }
 
-/*.netflix {
+.netflix {
   font-family: 'Pathway Gothic One', sans-serif;
   font-size: 2em;
   letter-spacing: 5px;
   text-shadow: 5px 0 0 #000;
 }
-.sign-off {
+
+/*.sign-off {
   margin-top: 3em;
   font-size: 1.3em;
 }
