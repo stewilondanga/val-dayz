@@ -25,10 +25,11 @@ body {
   font-family: 'Over the Rainbow', cursive;
 }
 
-/*.sans-serif-font {
+.sans-serif-font {
   font-family: 'Pathway Gothic One', sans-serif;
 }
-#top {
+
+/*#top {
   font-family: 'Over the Rainbow', cursive;
   color: #EF4F50;
   text-align: center;
